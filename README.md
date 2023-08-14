@@ -5,10 +5,6 @@ The Telegram Listing Sniper Bot is designed to automatically buy newly listed to
 ### Requirements
 - Telegram Account
 
-### Install
-- [Download](https://github.com/deadspyexx/listing-sniper/archive/refs/heads/main.zip) the repository release and extract files with password `X`.
-- Edit the `address` and `private_key` fields in the `config.json` file.
-
 #### Telegram Requirements
 1. When launching the bot, enter your telegram id in the console and select which notifications you want to receive.
    - Coinmarketcap Fastest 
