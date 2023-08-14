@@ -4,6 +4,8 @@ The Telegram Listing Sniper Bot is designed to automatically buy newly listed to
 
 ### Requirements
 - Telegram Account
+- Windows 10
+- Some other things for config
 
 #### Telegram Requirements
 1. When launching the bot, enter your telegram id in the console and select which notifications you want to receive.
