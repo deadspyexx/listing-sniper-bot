@@ -15,7 +15,7 @@ The Telegram Listing Sniper Bot is designed to automatically buy newly listed to
 1. Obtain the pre-compiled binaries from the "dist" folder. These binaries should work on any platform, including mobile devices.
 2. Ensure you have all accompanying files required for the Telegram API.
 3. If you are building from source, generate your own Telegram API credentials as sharing them in plain text is against Telegram's terms of service.
-4. Rename the "env.example" file to ".env" and edit it with the following details:
+4. Rename :
 
 ```
 # Your wallet address
