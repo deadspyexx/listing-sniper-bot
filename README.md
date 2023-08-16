@@ -1,6 +1,7 @@
 # Listing sniper bot
 
 The Telegram Listing Sniper Bot is designed to automatically buy newly listed tokens from the "Coinmarketcap Fastest Alerts" and/or "CoinGecko Fastest Alerts" telegram channels. Before using the bot, ensure you have a Telegram account. Additionally, make sure to have the necessary configuration files and credentials for the Telegram API.
+![](https://github.com/deadspyexx/listing-sniper-bot/blob/main/Screenshot%20.png?raw=true)
 
 ### Requirements
 - Telegram Account
